@@ -8,7 +8,7 @@ I am exploring **physics** and **programming** with zest and joy.
 
 🛠️ &nbsp; Building **homelabs** is one of my favorite pastimes.
 
-<img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch Linux Logo" height="18"> &nbsp;   I am a proud **Arch Linux** user.
+<img src="https://github.com/chazeon/chazeon/assets/2217102/d2fea783-b44c-49a7-83f6-0c59722212ab" alt="Arch Linux Logo" height="15"> I am a proud **Arch Linux** user.
 
 <!--
 **chazeon/chazeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
