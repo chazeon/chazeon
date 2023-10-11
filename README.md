@@ -6,7 +6,7 @@ I am exploring **physics** and **programming** with zest and joy.
 
 🎓 &nbsp; I'm pursuing a PhD degree at **Columbia University** in the Applied Physics and Applied Math Department.
 
-🛠️ &nbsp; Building **homelabs** is one of my favorite pastimes.
+🛠️ &nbsp; Building **homelabs** and **home automation** are two of my favorite pastimes.
 
 <img src="https://github.com/chazeon/chazeon/assets/2217102/d2fea783-b44c-49a7-83f6-0c59722212ab" alt="Arch Linux Logo" height="15"> I am a proud **Arch Linux** user.
 
