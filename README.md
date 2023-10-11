@@ -1,4 +1,4 @@
-### 👋 &nbsp; Hi there, this is Chenxing Luo!
+### 👋 &nbsp; Hi there, this is Chenxing!
 
 I am exploring **physics** and **programming** with zest and joy.
 
