@@ -1,9 +1,9 @@
 ### 👋 &nbsp; Hi there, this is Chenxing Luo!
 
-🔍 I am exploring **physics** and **programming** with zest and joy.
+I am exploring **physics** and **programming** with zest and joy.
 
-* <b>🎓 Academia</b>: I'm pursuing a PhD degree at Columbia University in Applied Physics and Applied Math Department.
-* <b>🛠️ Fun Fact</b>: Building homelabs is one of my favorite pastimes.
+* <b>🎓 Academia</b>: I'm pursuing a PhD degree at **Columbia University** in the Applied Physics and Applied Math Department.
+* <b>🛠️ Fun Fact</b>: Building **homelabs** is one of my favorite pastimes.
 
 <!--
 **chazeon/chazeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0003-4116-6851&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0003-4116-6851)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=iMefCXUAAAAJ)
