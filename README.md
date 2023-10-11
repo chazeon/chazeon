@@ -1,4 +1,9 @@
-### Chenxing Luo
+### 👋 &nbsp; Hi there, this is Chenxing Luo!
+
+🔍 I am exploring **physics** and **programming** with zest and joy.
+
+* <b>🎓 Academia</b>: I'm pursuing a PhD degree at Columbia University in Applied Physics and Applied Math Department.
+* <b>🛠️ Fun Fact</b>: Building homelabs is one of my favorite pastimes.
 
 <!--
 **chazeon/chazeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
