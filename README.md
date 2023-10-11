@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0003-4116-6851&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0003-4116-6851)
-[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=iMefCXUAAAAJ)
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chenxing-luo)
-[![GitHub](https://img.shields.io/github/stars/chazeon?affiliations=COLLABORATOR&style=flat-square&logo=github)](https://github.com/chazeon)
+<p align="center">
+  <a href="https://github.com/chazeon"><img src="https://img.shields.io/github/stars/chazeon?affiliations=COLLABORATOR&amp;style=flat-square&amp;logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/chenxing-luo"><img src="https://img.shields.io/static/v1?label=&amp;message=LinkedIn&amp;color=0077B5&amp;style=flat-square&amp;logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0000-0003-4116-6851"><img src="https://img.shields.io/static/v1?label=ORCID&amp;message=0000-0003-4116-6851&amp;color=green&amp;style=flat-square&amp;logo=orcid" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?user=iMefCXUAAAAJ"><img src="https://img.shields.io/static/v1?label=&amp;message=Google%20Scholar&amp;color=gray&amp;style=flat-square&amp;logo=google-scholar" alt="Google Scholar"></a>
+</p>
