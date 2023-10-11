@@ -2,8 +2,11 @@
 
 I am exploring **physics** and **programming** with zest and joy.
 
-* <b>🎓 Academia</b>: I'm pursuing a PhD degree at **Columbia University** in the Applied Physics and Applied Math Department.
-* <b>🛠️ Fun Fact</b>: Building **homelabs** is one of my favorite pastimes.
+🎓 &nbsp; I'm pursuing a PhD degree at **Columbia University** in the Applied Physics and Applied Math Department.
+
+🛠️ &nbsp; Building **homelabs** is one of my favorite pastimes.
+
+<img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="Arch Linux Logo" height="15"> I am a proud user of **Arch Linux**.
 
 <!--
 **chazeon/chazeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
