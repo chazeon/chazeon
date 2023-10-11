@@ -8,7 +8,9 @@ I am exploring **physics** and **programming** with zest and joy.
 
 🛠️ &nbsp; Building **homelabs** and **home automation** are two of my favorite pastimes.
 
-<img src="https://github.com/chazeon/chazeon/assets/2217102/d2fea783-b44c-49a7-83f6-0c59722212ab" alt="Arch Linux Logo" height="15"> I am a proud **Arch Linux** user.
+<img src="https://github.com/chazeon/chazeon/assets/2217102/d2fea783-b44c-49a7-83f6-0c59722212ab" alt="Arch Linux Logo" height="16"> I am a proud **Arch Linux** user.
+
+<img src="https://github.com/chazeon/chazeon/assets/2217102/44d58a03-9343-4a08-a1fb-b0f98513e50e" alt="Arch Linux Logo" height="16"> &nbsp; For GUI applications, I prefer **macOS**.
 
 <!--
 **chazeon/chazeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
