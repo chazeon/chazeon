@@ -2,6 +2,8 @@
 
 I am exploring **physics** and **programming** with zest and joy.
 
+#### Fun facts
+
 🎓 &nbsp; I'm pursuing a PhD degree at **Columbia University** in the Applied Physics and Applied Math Department.
 
 🛠️ &nbsp; Building **homelabs** is one of my favorite pastimes.
