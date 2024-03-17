@@ -35,4 +35,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/chenxing-luo"><img src="https://img.shields.io/static/v1?label=&amp;message=LinkedIn&amp;color=0077B5&amp;style=flat-square&amp;logo=linkedin" alt="LinkedIn"></a>
   <a href="https://orcid.org/0000-0003-4116-6851"><img src="https://img.shields.io/static/v1?label=ORCID&amp;message=0000-0003-4116-6851&amp;color=green&amp;style=flat-square&amp;logo=orcid" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?user=iMefCXUAAAAJ"><img src="https://img.shields.io/static/v1?label=&amp;message=Google%20Scholar&amp;color=gray&amp;style=flat-square&amp;logo=google-scholar" alt="Google Scholar"></a>
+  <img src="https://komarev.com/ghpvc/?username=chazeon&style=flat-square&abbreviated=true" alt="profile-view-count">
 </p>
